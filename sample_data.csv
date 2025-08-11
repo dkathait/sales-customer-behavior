@@ -1,0 +1,9 @@
+OrderID,CustomerName,OrderDate,SalesAmount
+1,John Doe,2024-01-15,250.50
+2,Jane Smith,2024-01-20,180.75
+3,David Lee,2024-02-10,320.00
+4,John Doe,2024-02-15,150.00
+5,Chris Green,2024-03-05,450.25
+6,Jane Smith,2024-03-10,300.00
+7,Emily Davis,2024-04-12,275.75
+8,John Doe,2024-04-18,400.00
